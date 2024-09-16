@@ -676,7 +676,22 @@ body.showCart .container{
     text-align: justify;
 }
 
-
+@media screen and (max-width: 768px){
+    .about__section .about__one{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .about__section .about__two{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+}
 
 
 /* Footer Section */
@@ -842,7 +857,7 @@ footer p {
     margin: 3px 0;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .nav-links {
         display: none;
         flex-direction: column;
