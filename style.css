@@ -623,7 +623,6 @@ body.showCart .container{
     justify-content: space-around;
     align-items: center;
     margin-bottom: 30px;
-    max-width: 600px;
 }
 
 .about__section .about__one .about__image img{
@@ -654,7 +653,6 @@ body.showCart .container{
     justify-content: space-around;
     align-items: center;
     margin-bottom: 30px;
-    max-width: 600px;
 }
 .about__section .about__two .about__image img{
     width: 400px;
@@ -685,6 +683,7 @@ body.showCart .container{
         justify-content: space-around;
         align-items: center;
         margin-bottom: 30px;
+        max-width: 600px;
     }
     .about__section .about__two{
         display: flex;
@@ -692,6 +691,7 @@ body.showCart .container{
         justify-content: space-around;
         align-items: center;
         margin-bottom: 30px;
+        max-width: 600px;
     }
 }
 
