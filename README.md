@@ -2,6 +2,10 @@
 
 A sleek and modern shoe e-commerce landing page designed for an engaging shopping experience. Built using **HTML, CSS, and JavaScript** for a smooth, responsive, and visually stunning UI.
 
+## 📸 Screenshots
+
+![Shoe Landing Page](images/for-readme.jpg)
+
 ## 🌟 Features
 
 - 🎨 **Modern & Stylish UI**: Clean and aesthetic design with smooth animations.
@@ -12,10 +16,6 @@ A sleek and modern shoe e-commerce landing page designed for an engaging shoppin
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript  
-
-## 📸 Screenshots
-
-![Shoe Landing Page](assets/screenshot.png)
 
 
 ## 🤝 Contributing
